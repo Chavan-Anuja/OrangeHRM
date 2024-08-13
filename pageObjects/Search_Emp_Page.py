@@ -27,7 +27,6 @@ class SearchEmp_Class:
         self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.Text_EmpID_XPATH)))
         self.driver.find_element(By.XPATH, self.Text_EmpID_XPATH).send_keys(empId)
 
-
     def Click_Search_Emp(self):
         self.driver.find_element(By.XPATH, self.Click_SearchEmp_Xpath).click()
 

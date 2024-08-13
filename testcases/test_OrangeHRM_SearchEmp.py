@@ -33,6 +33,7 @@ class Test_SearchEmp:
         Emp_ID = "09557"
         self.log.info("Entering Employee ID")
         self.se.Enter_EmpID(Emp_ID)
+
         self.log.info("Clicking Search Button")
         self.se.Click_Search_Emp()
 
