@@ -1,0 +1,1 @@
+pytest -v -s --html=HTMLReports/myreport.html --alluredir="AllureReports" --browser chrome 

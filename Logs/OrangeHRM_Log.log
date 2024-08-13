@@ -1,0 +1,713 @@
+2024-08-07 20:05:52,193 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 18 : test_OrangeHRM_url_001 is started
+2024-08-07 20:05:52,193 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 20 : Opening browser
+2024-08-07 20:05:52,196 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 22 : Verifying the page title
+2024-08-07 20:05:52,200 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 24 : test_OrangeHRM_url_001 is passed,landed on correct url
+2024-08-07 20:05:55,200 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 26 : Taking the Screenshot
+2024-08-07 20:05:55,239 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 35 : Closing the broweser 
+2024-08-07 20:05:58,285 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 37 : Test_OrabgeHrm_url_001 is completed
+2024-08-07 20:06:46,618 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 40 : test_OrangeHrm_002 is started
+2024-08-07 20:06:46,618 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 42 : Opening the browser
+2024-08-07 20:06:46,618 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 46 : Entering Username-->Admin
+2024-08-07 20:06:47,714 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 50 : Entering password-->admin123
+2024-08-07 20:06:47,770 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 53 : Clicking on login button
+2024-08-07 20:06:47,806 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 55 : Verifying the login status
+2024-08-07 20:06:52,843 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 57 : Taking the screenshot
+2024-08-07 20:06:52,923 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 59 : Clicking on Menu button
+2024-08-07 20:06:52,955 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 61 : clicking on logout button
+2024-08-07 20:06:53,877 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 69 : Closing the Browser
+2024-08-07 20:06:56,924 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 71 : test_orangeHrm_002 is completed
+2024-08-07 20:07:46,032 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 18 : test_OrangeHRM_url_001 is started
+2024-08-07 20:07:46,032 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 20 : Opening browser
+2024-08-07 20:07:46,036 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 22 : Verifying the page title
+2024-08-07 20:07:46,041 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 24 : test_OrangeHRM_url_001 is passed,landed on correct url
+2024-08-07 20:07:49,042 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 26 : Taking the Screenshot
+2024-08-07 20:07:49,169 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 35 : Closing the broweser 
+2024-08-07 20:07:51,383 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 37 : Test_OrabgeHrm_url_001 is completed
+2024-08-07 20:08:19,056 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 40 : test_OrangeHrm_002 is started
+2024-08-07 20:08:19,056 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 42 : Opening the browser
+2024-08-07 20:08:19,056 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 46 : Entering Username-->Admin
+2024-08-07 20:08:19,633 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 50 : Entering password-->admin123
+2024-08-07 20:08:19,743 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 53 : Clicking on login button
+2024-08-07 20:08:19,791 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 55 : Verifying the login status
+2024-08-07 20:08:24,804 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 57 : Taking the screenshot
+2024-08-07 20:08:24,963 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 59 : Clicking on Menu button
+2024-08-07 20:08:25,032 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 61 : clicking on logout button
+2024-08-07 20:08:25,861 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 69 : Closing the Browser
+2024-08-07 20:08:28,124 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 71 : test_orangeHrm_002 is completed
+2024-08-07 23:06:29,312 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 14 : Test_OrangeHrm_login_params_003 is started
+2024-08-07 23:06:29,313 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 16 : Opening the Browser
+2024-08-07 23:06:29,313 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 18 : entering username-->Admin
+2024-08-07 23:06:29,943 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 20 : entering password-->admin123
+2024-08-07 23:06:30,099 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 22 : Clicking on login button
+2024-08-07 23:06:31,507 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 24 : Verifying the login status
+2024-08-07 23:06:51,607 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 53 : Closing the browser
+2024-08-07 23:06:54,097 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 55 : test_OrangeHRM_Login_params_003 is completed
+2024-08-07 23:07:22,690 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 14 : Test_OrangeHrm_login_params_003 is started
+2024-08-07 23:07:22,690 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 16 : Opening the Browser
+2024-08-07 23:07:22,690 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 18 : entering username-->Admin1
+2024-08-07 23:07:23,433 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 20 : entering password-->admin123
+2024-08-07 23:07:23,577 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 22 : Clicking on login button
+2024-08-07 23:07:25,297 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 24 : Verifying the login status
+2024-08-07 23:07:33,417 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 53 : Closing the browser
+2024-08-07 23:07:35,810 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 55 : test_OrangeHRM_Login_params_003 is completed
+2024-08-07 23:08:10,179 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 14 : Test_OrangeHrm_login_params_003 is started
+2024-08-07 23:08:10,179 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 16 : Opening the Browser
+2024-08-07 23:08:10,179 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 18 : entering username-->Admin
+2024-08-07 23:08:10,925 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 20 : entering password-->admin1234
+2024-08-07 23:08:11,075 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 22 : Clicking on login button
+2024-08-07 23:08:12,498 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 24 : Verifying the login status
+2024-08-07 23:08:20,618 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 53 : Closing the browser
+2024-08-07 23:08:22,989 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 55 : test_OrangeHRM_Login_params_003 is completed
+2024-08-07 23:08:57,765 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 14 : Test_OrangeHrm_login_params_003 is started
+2024-08-07 23:08:57,765 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 16 : Opening the Browser
+2024-08-07 23:08:57,765 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 18 : entering username-->Admin1
+2024-08-07 23:08:58,929 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 20 : entering password-->admin1234
+2024-08-07 23:08:59,066 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 22 : Clicking on login button
+2024-08-07 23:09:01,758 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 24 : Verifying the login status
+2024-08-07 23:09:09,848 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 53 : Closing the browser
+2024-08-07 23:09:12,238 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 55 : test_OrangeHRM_Login_params_003 is completed
+2024-08-08 19:08:35,897 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 14 : Test_OrangeHrm_login_params_003 is started
+2024-08-08 19:08:35,898 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 16 : Opening the Browser
+2024-08-08 19:08:35,898 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 18 : entering username-->Admin
+2024-08-08 19:08:36,463 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 20 : entering password-->admin123
+2024-08-08 19:08:36,521 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 22 : Clicking on login button
+2024-08-08 19:08:36,554 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 24 : Verifying the login status
+2024-08-08 19:08:56,680 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 53 : Closing the browser
+2024-08-08 19:08:59,721 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 55 : test_OrangeHRM_Login_params_003 is completed
+2024-08-08 19:09:33,032 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 14 : Test_OrangeHrm_login_params_003 is started
+2024-08-08 19:09:33,032 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 16 : Opening the Browser
+2024-08-08 19:09:33,032 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 18 : entering username-->Admin1
+2024-08-08 19:09:34,341 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 20 : entering password-->admin123
+2024-08-08 19:09:34,639 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 22 : Clicking on login button
+2024-08-08 19:09:34,799 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 24 : Verifying the login status
+2024-08-08 19:09:43,059 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 53 : Closing the browser
+2024-08-08 19:09:46,148 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 55 : test_OrangeHRM_Login_params_003 is completed
+2024-08-08 19:10:19,211 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 14 : Test_OrangeHrm_login_params_003 is started
+2024-08-08 19:10:19,211 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 16 : Opening the Browser
+2024-08-08 19:10:19,211 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 18 : entering username-->Admin
+2024-08-08 19:10:19,964 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 20 : entering password-->admin1234
+2024-08-08 19:10:20,068 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 22 : Clicking on login button
+2024-08-08 19:10:21,904 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 24 : Verifying the login status
+2024-08-08 19:10:30,032 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 53 : Closing the browser
+2024-08-08 19:10:33,126 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 55 : test_OrangeHRM_Login_params_003 is completed
+2024-08-08 19:11:05,412 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 14 : Test_OrangeHrm_login_params_003 is started
+2024-08-08 19:11:05,412 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 16 : Opening the Browser
+2024-08-08 19:11:05,412 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 18 : entering username-->Admin1
+2024-08-08 19:11:06,704 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 20 : entering password-->admin1234
+2024-08-08 19:11:06,979 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 22 : Clicking on login button
+2024-08-08 19:11:07,134 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 24 : Verifying the login status
+2024-08-08 19:11:15,250 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 53 : Closing the browser
+2024-08-08 19:11:18,346 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 55 : test_OrangeHRM_Login_params_003 is completed
+2024-08-08 19:13:30,657 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 14 : Test_OrangeHrm_login_params_003 is started
+2024-08-08 19:13:30,659 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 16 : Opening the Browser
+2024-08-08 19:13:30,659 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 18 : entering username-->Admin
+2024-08-08 19:13:32,016 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 20 : entering password-->admin123
+2024-08-08 19:13:32,194 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 22 : Clicking on login button
+2024-08-08 19:13:32,297 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 24 : Verifying the login status
+2024-08-08 19:13:33,889 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 14 : Test_OrangeHrm_login_params_003 is started
+2024-08-08 19:13:33,890 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 16 : Opening the Browser
+2024-08-08 19:13:33,890 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 18 : entering username-->Admin1
+2024-08-08 19:13:34,722 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 20 : entering password-->admin1234
+2024-08-08 19:13:34,922 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 22 : Clicking on login button
+2024-08-08 19:13:35,996 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 24 : Verifying the login status
+2024-08-08 19:13:36,406 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 14 : Test_OrangeHrm_login_params_003 is started
+2024-08-08 19:13:36,407 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 16 : Opening the Browser
+2024-08-08 19:13:36,407 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 18 : entering username-->Admin
+2024-08-08 19:13:37,261 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 20 : entering password-->admin1234
+2024-08-08 19:13:37,431 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 22 : Clicking on login button
+2024-08-08 19:13:38,638 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 24 : Verifying the login status
+2024-08-08 19:13:39,368 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 14 : Test_OrangeHrm_login_params_003 is started
+2024-08-08 19:13:39,368 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 16 : Opening the Browser
+2024-08-08 19:13:39,368 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 18 : entering username-->Admin1
+2024-08-08 19:13:40,265 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 20 : entering password-->admin123
+2024-08-08 19:13:40,407 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 22 : Clicking on login button
+2024-08-08 19:13:41,588 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 24 : Verifying the login status
+2024-08-08 19:13:44,099 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 53 : Closing the browser
+2024-08-08 19:13:46,442 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 55 : test_OrangeHRM_Login_params_003 is completed
+2024-08-08 19:13:46,774 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 53 : Closing the browser
+2024-08-08 19:13:49,153 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 55 : test_OrangeHRM_Login_params_003 is completed
+2024-08-08 19:13:49,664 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 53 : Closing the browser
+2024-08-08 19:13:52,093 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 55 : test_OrangeHRM_Login_params_003 is completed
+2024-08-08 19:13:52,407 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 53 : Closing the browser
+2024-08-08 19:13:54,844 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 55 : test_OrangeHRM_Login_params_003 is completed
+2024-08-09 18:14:02,886 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 13 : test_OrangeHRM_Login_DDT_004 is started
+2024-08-09 18:14:02,886 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 15 : Opening the browser
+2024-08-09 18:14:36,424 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 13 : test_OrangeHRM_Login_DDT_004 is started
+2024-08-09 18:14:36,424 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 15 : Opening the browser
+2024-08-09 18:16:11,622 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 13 : test_OrangeHRM_Login_DDT_004 is started
+2024-08-09 18:16:11,622 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 15 : Opening the browser
+2024-08-09 18:16:11,649 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin
+2024-08-09 18:16:12,212 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 32 : Entering Password-->admin123
+2024-08-09 18:16:12,270 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 35 : Clicking on login button
+2024-08-09 18:16:15,304 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 38 : Verifying the login status
+2024-08-09 18:16:20,373 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 43 : Taking the screenshot
+2024-08-09 18:16:20,443 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 46 : Clicking on Menu button
+2024-08-09 18:16:20,501 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 48 : Clicking on logout button
+2024-08-09 18:16:21,169 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin1
+2024-08-09 18:16:21,723 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 32 : Entering Password-->admin123
+2024-08-09 18:16:21,774 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 35 : Clicking on login button
+2024-08-09 18:16:24,832 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 38 : Verifying the login status
+2024-08-09 18:16:32,896 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 70 : Taking a screenshot
+2024-08-09 18:16:32,944 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin
+2024-08-09 18:16:32,981 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 32 : Entering Password-->admin1231
+2024-08-09 18:16:33,038 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 35 : Clicking on login button
+2024-08-09 18:16:37,393 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 38 : Verifying the login status
+2024-08-09 18:16:43,463 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 64 : Taking a screenshot
+2024-08-09 18:16:43,506 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin1
+2024-08-09 18:16:43,543 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 32 : Entering Password-->admin1231
+2024-08-09 18:16:43,594 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 35 : Clicking on login button
+2024-08-09 18:16:47,457 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 38 : Verifying the login status
+2024-08-09 18:16:55,499 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 70 : Taking a screenshot
+2024-08-09 18:16:55,540 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin
+2024-08-09 18:16:55,572 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 32 : Entering Password-->admin123
+2024-08-09 18:16:55,617 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 35 : Clicking on login button
+2024-08-09 18:17:00,006 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 38 : Verifying the login status
+2024-08-09 18:17:05,045 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 43 : Taking the screenshot
+2024-08-09 18:17:05,085 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 46 : Clicking on Menu button
+2024-08-09 18:17:05,111 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 48 : Clicking on logout button
+2024-08-09 18:17:06,001 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin1
+2024-08-09 18:17:06,545 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 32 : Entering Password-->admin123
+2024-08-09 18:17:06,589 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 35 : Clicking on login button
+2024-08-09 18:17:10,380 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 38 : Verifying the login status
+2024-08-09 18:17:18,431 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 70 : Taking a screenshot
+2024-08-09 18:17:18,462 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 79 : test_OrangeHRM_Login_DDT_004 is failed
+2024-08-09 18:26:15,009 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 13 : test_OrangeHRM_Login_DDT_004 is started
+2024-08-09 18:26:15,009 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 15 : Opening the browser
+2024-08-09 18:26:15,038 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin
+2024-08-09 18:26:15,700 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin123
+2024-08-09 18:26:15,762 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-09 18:26:18,804 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-09 18:26:23,855 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 41 : Taking the screenshot
+2024-08-09 18:26:23,897 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 44 : Clicking on Menu button
+2024-08-09 18:26:23,927 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 46 : Clicking on logout button
+2024-08-09 18:26:24,567 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin1
+2024-08-09 18:26:25,117 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin123
+2024-08-09 18:26:25,162 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-09 18:26:28,227 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-09 18:26:36,284 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 68 : Taking a screenshot
+2024-08-09 18:26:36,334 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin
+2024-08-09 18:26:36,371 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin1231
+2024-08-09 18:26:36,421 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-09 18:26:39,451 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-09 18:26:45,483 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 62 : Taking a screenshot
+2024-08-09 18:26:45,534 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin1
+2024-08-09 18:26:45,578 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin1231
+2024-08-09 18:26:45,668 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-09 18:26:48,698 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-09 18:26:56,742 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 68 : Taking a screenshot
+2024-08-09 18:26:56,781 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin
+2024-08-09 18:26:56,819 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin123
+2024-08-09 18:26:56,869 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-09 18:27:01,071 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-09 18:27:06,096 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 41 : Taking the screenshot
+2024-08-09 18:27:06,144 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 44 : Clicking on Menu button
+2024-08-09 18:27:06,170 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 46 : Clicking on logout button
+2024-08-09 18:27:07,071 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin1
+2024-08-09 18:27:07,613 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin123
+2024-08-09 18:27:07,657 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-09 18:27:10,689 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-09 18:27:18,747 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 68 : Taking a screenshot
+2024-08-09 18:27:18,800 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 77 : test_OrangeHRM_Login_DDT_004 is failed
+2024-08-09 18:27:47,033 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 13 : test_OrangeHRM_Login_DDT_004 is started
+2024-08-09 18:27:47,033 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 15 : Opening the browser
+2024-08-09 18:27:47,067 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin
+2024-08-09 18:27:47,646 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin123
+2024-08-09 18:27:47,743 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-09 18:27:51,859 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-09 18:27:56,896 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 41 : Taking the screenshot
+2024-08-09 18:27:57,035 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 44 : Clicking on Menu button
+2024-08-09 18:27:57,070 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 46 : Clicking on logout button
+2024-08-09 18:27:59,476 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin1
+2024-08-09 18:28:00,037 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin123
+2024-08-09 18:28:00,100 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-09 18:28:03,128 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-09 18:28:11,161 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 68 : Taking a screenshot
+2024-08-09 18:28:11,281 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin
+2024-08-09 18:28:11,329 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin1231
+2024-08-09 18:28:11,424 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-09 18:28:14,458 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-09 18:28:20,529 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 62 : Taking a screenshot
+2024-08-09 18:28:20,684 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin1
+2024-08-09 18:28:20,731 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin1231
+2024-08-09 18:28:20,796 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-09 18:28:23,847 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-09 18:28:31,916 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 68 : Taking a screenshot
+2024-08-09 18:28:32,039 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin
+2024-08-09 18:28:32,089 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin123
+2024-08-09 18:28:32,156 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-09 18:28:35,189 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-09 18:28:40,206 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 41 : Taking the screenshot
+2024-08-09 18:28:40,332 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 44 : Clicking on Menu button
+2024-08-09 18:28:40,358 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 46 : Clicking on logout button
+2024-08-09 18:28:41,876 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin1
+2024-08-09 18:28:42,480 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin123
+2024-08-09 18:28:42,544 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-09 18:28:45,603 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-09 18:28:53,683 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 68 : Taking a screenshot
+2024-08-09 18:28:53,875 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 77 : test_OrangeHRM_Login_DDT_004 is failed
+2024-08-09 18:40:34,899 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 13 : test_OrangeHRM_Login_DDT_004 is started
+2024-08-09 18:40:34,899 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 15 : Opening the browser
+2024-08-09 18:40:34,942 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin
+2024-08-09 18:40:35,769 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin123
+2024-08-09 18:40:35,933 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-09 18:40:39,113 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-09 18:40:56,292 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin1
+2024-08-09 18:43:50,298 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 13 : test_OrangeHRM_Login_DDT_004 is started
+2024-08-09 18:43:50,298 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 15 : Opening the browser
+2024-08-09 18:43:50,323 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin
+2024-08-09 18:43:51,336 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin123
+2024-08-09 18:43:51,501 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-09 18:43:56,391 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-09 18:46:59,611 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 13 : test_OrangeHRM_Login_DDT_004 is started
+2024-08-09 18:46:59,611 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 15 : Opening the browser
+2024-08-09 18:46:59,632 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin
+2024-08-09 18:47:01,117 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin123
+2024-08-09 18:47:01,285 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-09 18:47:05,876 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-09 18:47:10,979 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 41 : Taking the screenshot
+2024-08-09 18:47:11,248 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 44 : Clicking on Menu button
+2024-08-09 18:47:11,300 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 46 : Clicking on logout button
+2024-08-09 18:47:12,202 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin1
+2024-08-09 18:47:12,980 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin123
+2024-08-09 18:47:13,335 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-09 18:47:17,963 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-09 18:47:26,121 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 68 : Taking a screenshot
+2024-08-09 18:47:26,370 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin
+2024-08-09 18:47:26,444 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin1231
+2024-08-09 18:47:26,574 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-09 18:47:29,719 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-09 18:47:37,854 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 68 : Taking a screenshot
+2024-08-09 18:47:38,062 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin1
+2024-08-09 18:47:38,140 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin1231
+2024-08-09 18:47:38,246 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-09 18:47:41,382 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-09 18:47:49,527 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 68 : Taking a screenshot
+2024-08-09 18:47:49,750 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin
+2024-08-09 18:47:49,823 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin123
+2024-08-09 18:47:49,938 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-09 18:47:53,076 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-09 18:48:10,239 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin1
+2024-08-09 18:49:07,355 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 13 : test_OrangeHRM_Login_DDT_004 is started
+2024-08-09 18:49:07,355 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 15 : Opening the browser
+2024-08-09 18:49:07,396 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin
+2024-08-09 18:49:08,170 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin123
+2024-08-09 18:49:08,324 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-09 18:49:11,379 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-09 18:49:16,734 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 41 : Taking the screenshot
+2024-08-09 18:49:17,012 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 44 : Clicking on Menu button
+2024-08-09 18:49:17,070 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 46 : Clicking on logout button
+2024-08-09 18:49:18,969 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin1
+2024-08-09 18:49:19,796 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin123
+2024-08-09 18:49:20,164 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-09 18:49:23,351 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-09 18:49:32,406 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 68 : Taking a screenshot
+2024-08-09 18:49:32,701 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin
+2024-08-09 18:49:32,784 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin1231
+2024-08-09 18:49:32,896 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-09 18:49:36,063 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-09 18:49:44,394 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 68 : Taking a screenshot
+2024-08-09 18:49:44,628 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin1
+2024-08-09 18:49:44,709 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin1231
+2024-08-09 18:49:44,812 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-09 18:49:47,868 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-09 18:49:55,993 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 68 : Taking a screenshot
+2024-08-09 18:49:56,172 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin
+2024-08-09 18:49:56,301 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin123
+2024-08-09 18:49:56,447 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-09 18:50:01,387 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-09 18:50:06,459 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 41 : Taking the screenshot
+2024-08-09 18:50:06,700 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 44 : Clicking on Menu button
+2024-08-09 18:50:06,749 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 46 : Clicking on logout button
+2024-08-09 18:50:07,833 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin1
+2024-08-09 18:50:08,488 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin123
+2024-08-09 18:50:08,587 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-09 18:50:11,762 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-09 18:50:19,896 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 68 : Taking a screenshot
+2024-08-09 18:50:20,131 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 74 : test_OrangeHRM_Login_DDT_004 is passed
+2024-08-09 18:50:22,431 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 81 : Closing the browser
+2024-08-09 18:50:22,432 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 82 : test_OrangeHRM_Login_DDT_004 is completed
+2024-08-10 16:51:09,437 : INFO : Test_AddEmp : test_AddEmp_005 : 19 : test_AddEmp_005 testcase is started
+2024-08-10 16:51:09,438 : INFO : Test_AddEmp : test_AddEmp_005 : 21 : Opening browser
+2024-08-10 16:51:09,438 : INFO : Test_AddEmp : test_AddEmp_005 : 23 : Enter Username
+2024-08-10 16:51:10,038 : INFO : Test_AddEmp : test_AddEmp_005 : 25 : Enter Password
+2024-08-10 16:51:10,141 : INFO : Test_AddEmp : test_AddEmp_005 : 27 : Click on login Button
+2024-08-10 16:51:10,228 : INFO : Test_AddEmp : test_AddEmp_005 : 30 : Click on PIM Button
+2024-08-10 16:53:55,797 : INFO : Test_AddEmp : test_AddEmp_005 : 19 : test_AddEmp_005 testcase is started
+2024-08-10 16:53:55,798 : INFO : Test_AddEmp : test_AddEmp_005 : 21 : Opening browser
+2024-08-10 16:53:55,798 : INFO : Test_AddEmp : test_AddEmp_005 : 23 : Enter Username
+2024-08-10 16:53:56,874 : INFO : Test_AddEmp : test_AddEmp_005 : 25 : Enter Password
+2024-08-10 16:53:56,946 : INFO : Test_AddEmp : test_AddEmp_005 : 27 : Click on login Button
+2024-08-10 16:53:56,987 : INFO : Test_AddEmp : test_AddEmp_005 : 30 : Click on PIM Button
+2024-08-10 16:53:59,524 : INFO : Test_AddEmp : test_AddEmp_005 : 32 : Click on AddEmp  Button
+2024-08-10 16:54:00,684 : INFO : Test_AddEmp : test_AddEmp_005 : 34 : Enter FirstName
+2024-08-10 16:55:17,985 : INFO : Test_AddEmp : test_AddEmp_005 : 17 : test_AddEmp_005 testcase is started
+2024-08-10 16:55:17,986 : INFO : Test_AddEmp : test_AddEmp_005 : 19 : Opening browser
+2024-08-10 16:55:17,986 : INFO : Test_AddEmp : test_AddEmp_005 : 21 : Enter Username
+2024-08-10 16:55:19,109 : INFO : Test_AddEmp : test_AddEmp_005 : 23 : Enter Password
+2024-08-10 16:55:19,177 : INFO : Test_AddEmp : test_AddEmp_005 : 25 : Click on login Button
+2024-08-10 16:55:19,217 : INFO : Test_AddEmp : test_AddEmp_005 : 28 : Click on PIM Button
+2024-08-10 16:55:21,730 : INFO : Test_AddEmp : test_AddEmp_005 : 30 : Click on AddEmp  Button
+2024-08-10 16:55:22,817 : INFO : Test_AddEmp : test_AddEmp_005 : 32 : Enter FirstName
+2024-08-10 16:57:39,086 : INFO : Test_AddEmp : test_AddEmp_005 : 17 : test_AddEmp_005 testcase is started
+2024-08-10 16:57:39,087 : INFO : Test_AddEmp : test_AddEmp_005 : 19 : Opening browser
+2024-08-10 16:57:39,087 : INFO : Test_AddEmp : test_AddEmp_005 : 21 : Enter Username
+2024-08-10 16:57:39,663 : INFO : Test_AddEmp : test_AddEmp_005 : 23 : Enter Password
+2024-08-10 16:57:39,741 : INFO : Test_AddEmp : test_AddEmp_005 : 25 : Click on login Button
+2024-08-10 16:57:39,779 : INFO : Test_AddEmp : test_AddEmp_005 : 28 : Click on PIM Button
+2024-08-10 16:57:42,457 : INFO : Test_AddEmp : test_AddEmp_005 : 30 : Click on AddEmp  Button
+2024-08-10 16:57:43,522 : INFO : Test_AddEmp : test_AddEmp_005 : 32 : Enter FirstName
+2024-08-10 17:02:40,977 : INFO : Test_AddEmp : test_AddEmp_005 : 17 : test_AddEmp_005 testcase is started
+2024-08-10 17:02:40,978 : INFO : Test_AddEmp : test_AddEmp_005 : 19 : Opening browser
+2024-08-10 17:02:40,978 : INFO : Test_AddEmp : test_AddEmp_005 : 21 : Enter Username
+2024-08-10 17:02:41,546 : INFO : Test_AddEmp : test_AddEmp_005 : 23 : Enter Password
+2024-08-10 17:02:41,572 : INFO : Test_AddEmp : test_AddEmp_005 : 25 : Click on login Button
+2024-08-10 17:02:42,934 : INFO : Test_AddEmp : test_AddEmp_005 : 28 : Click on PIM Button
+2024-08-10 17:02:44,383 : INFO : Test_AddEmp : test_AddEmp_005 : 30 : Click on AddEmp  Button
+2024-08-10 17:02:45,540 : INFO : Test_AddEmp : test_AddEmp_005 : 32 : Enter FirstName
+2024-08-10 17:04:41,214 : INFO : Test_AddEmp : test_AddEmp_005 : 17 : test_AddEmp_005 testcase is started
+2024-08-10 17:04:41,215 : INFO : Test_AddEmp : test_AddEmp_005 : 19 : Opening browser
+2024-08-10 17:04:41,215 : INFO : Test_AddEmp : test_AddEmp_005 : 21 : Enter Username
+2024-08-10 17:04:41,753 : INFO : Test_AddEmp : test_AddEmp_005 : 23 : Enter Password
+2024-08-10 17:04:41,781 : INFO : Test_AddEmp : test_AddEmp_005 : 25 : Click on login Button
+2024-08-10 17:04:42,980 : INFO : Test_AddEmp : test_AddEmp_005 : 28 : Click on PIM Button
+2024-08-10 17:04:44,522 : INFO : Test_AddEmp : test_AddEmp_005 : 30 : Click on AddEmp  Button
+2024-08-10 17:04:45,677 : INFO : Test_AddEmp : test_AddEmp_005 : 32 : Enter FirstName
+2024-08-10 17:04:46,255 : INFO : Test_AddEmp : test_AddEmp_005 : 34 : Enter MiddleName
+2024-08-10 17:04:46,277 : INFO : Test_AddEmp : test_AddEmp_005 : 36 : Enter LastName
+2024-08-10 17:04:46,291 : INFO : Test_AddEmp : test_AddEmp_005 : 38 : Uploading Image
+2024-08-10 17:04:46,301 : INFO : Test_AddEmp : test_AddEmp_005 : 40 : Click On Save Button
+2024-08-10 17:09:05,397 : INFO : Test_AddEmp : test_AddEmp_005 : 17 : test_AddEmp_005 testcase is started
+2024-08-10 17:09:05,397 : INFO : Test_AddEmp : test_AddEmp_005 : 19 : Opening browser
+2024-08-10 17:09:05,397 : INFO : Test_AddEmp : test_AddEmp_005 : 21 : Enter Username
+2024-08-10 17:09:05,957 : INFO : Test_AddEmp : test_AddEmp_005 : 23 : Enter Password
+2024-08-10 17:09:05,999 : INFO : Test_AddEmp : test_AddEmp_005 : 25 : Click on login Button
+2024-08-10 17:09:07,364 : INFO : Test_AddEmp : test_AddEmp_005 : 28 : Click on PIM Button
+2024-08-10 17:09:09,342 : INFO : Test_AddEmp : test_AddEmp_005 : 30 : Click on AddEmp  Button
+2024-08-10 17:09:10,600 : INFO : Test_AddEmp : test_AddEmp_005 : 32 : Enter FirstName
+2024-08-10 17:09:11,164 : INFO : Test_AddEmp : test_AddEmp_005 : 34 : Enter MiddleName
+2024-08-10 17:09:11,186 : INFO : Test_AddEmp : test_AddEmp_005 : 36 : Enter LastName
+2024-08-10 17:09:11,212 : INFO : Test_AddEmp : test_AddEmp_005 : 38 : Uploading Image
+2024-08-10 17:09:11,220 : INFO : Test_AddEmp : test_AddEmp_005 : 40 : Click On Save Button
+2024-08-10 17:11:41,315 : INFO : Test_AddEmp : test_AddEmp_005 : 17 : test_AddEmp_005 testcase is started
+2024-08-10 17:11:41,316 : INFO : Test_AddEmp : test_AddEmp_005 : 19 : Opening browser
+2024-08-10 17:11:41,316 : INFO : Test_AddEmp : test_AddEmp_005 : 21 : Enter Username
+2024-08-10 17:11:41,859 : INFO : Test_AddEmp : test_AddEmp_005 : 23 : Enter Password
+2024-08-10 17:11:41,888 : INFO : Test_AddEmp : test_AddEmp_005 : 25 : Click on login Button
+2024-08-10 17:11:43,139 : INFO : Test_AddEmp : test_AddEmp_005 : 28 : Click on PIM Button
+2024-08-10 17:11:44,749 : INFO : Test_AddEmp : test_AddEmp_005 : 30 : Click on AddEmp  Button
+2024-08-10 17:11:45,929 : INFO : Test_AddEmp : test_AddEmp_005 : 32 : Enter FirstName
+2024-08-10 17:11:46,518 : INFO : Test_AddEmp : test_AddEmp_005 : 34 : Enter MiddleName
+2024-08-10 17:11:46,540 : INFO : Test_AddEmp : test_AddEmp_005 : 36 : Enter LastName
+2024-08-10 17:11:46,560 : INFO : Test_AddEmp : test_AddEmp_005 : 38 : Uploading Image
+2024-08-10 17:11:46,573 : INFO : Test_AddEmp : test_AddEmp_005 : 40 : Click On Save Button
+2024-08-10 17:21:44,953 : INFO : Test_AddEmp : test_AddEmp_005 : 17 : test_AddEmp_005 testcase is started
+2024-08-10 17:21:44,954 : INFO : Test_AddEmp : test_AddEmp_005 : 19 : Opening browser
+2024-08-10 17:21:44,954 : INFO : Test_AddEmp : test_AddEmp_005 : 21 : Enter Username
+2024-08-10 17:21:45,552 : INFO : Test_AddEmp : test_AddEmp_005 : 23 : Enter Password
+2024-08-10 17:21:45,588 : INFO : Test_AddEmp : test_AddEmp_005 : 25 : Click on login Button
+2024-08-10 17:21:46,844 : INFO : Test_AddEmp : test_AddEmp_005 : 28 : Click on PIM Button
+2024-08-10 17:21:48,501 : INFO : Test_AddEmp : test_AddEmp_005 : 30 : Click on AddEmp  Button
+2024-08-10 17:21:49,750 : INFO : Test_AddEmp : test_AddEmp_005 : 32 : Enter FirstName
+2024-08-10 17:21:50,323 : INFO : Test_AddEmp : test_AddEmp_005 : 34 : Enter MiddleName
+2024-08-10 17:21:50,350 : INFO : Test_AddEmp : test_AddEmp_005 : 36 : Enter LastName
+2024-08-10 17:21:50,369 : INFO : Test_AddEmp : test_AddEmp_005 : 38 : Uploading Image
+2024-08-10 17:21:50,379 : INFO : Test_AddEmp : test_AddEmp_005 : 40 : Click On Save Button
+2024-08-13 13:24:54,380 : INFO : Test_AddEmp : test_AddEmp_005 : 17 : test_AddEmp_005 testcase is started
+2024-08-13 13:24:54,382 : INFO : Test_AddEmp : test_AddEmp_005 : 19 : Opening browser
+2024-08-13 13:24:54,382 : INFO : Test_AddEmp : test_AddEmp_005 : 21 : Enter Username
+2024-08-13 13:24:55,277 : INFO : Test_AddEmp : test_AddEmp_005 : 23 : Enter Password
+2024-08-13 13:24:55,413 : INFO : Test_AddEmp : test_AddEmp_005 : 25 : Click on login Button
+2024-08-13 13:24:55,491 : INFO : Test_AddEmp : test_AddEmp_005 : 28 : Click on PIM Button
+2024-08-13 13:24:58,898 : INFO : Test_AddEmp : test_AddEmp_005 : 30 : Click on AddEmp  Button
+2024-08-13 13:25:00,190 : INFO : Test_AddEmp : test_AddEmp_005 : 32 : Enter FirstName
+2024-08-13 13:25:00,877 : INFO : Test_AddEmp : test_AddEmp_005 : 34 : Enter MiddleName
+2024-08-13 13:25:00,992 : INFO : Test_AddEmp : test_AddEmp_005 : 36 : Enter LastName
+2024-08-13 13:25:01,107 : INFO : Test_AddEmp : test_AddEmp_005 : 38 : Uploading Image
+2024-08-13 13:25:01,157 : INFO : Test_AddEmp : test_AddEmp_005 : 40 : Click On Save Button
+2024-08-13 13:25:01,253 : INFO : Test_AddEmp : test_AddEmp_005 : 42 : Validating the success message for add emp 
+2024-08-13 13:25:04,065 : INFO : Test_AddEmp : test_AddEmp_005 : 44 : test_AddEmp_005 testcase is passed
+2024-08-13 13:25:04,065 : INFO : Test_AddEmp : test_AddEmp_005 : 50 : test_AddEmp_005 testcase is completed
+2024-08-13 13:46:12,716 : INFO : Test_SearchEmp : test_SearchEmp_006 : 21 : Opening browser
+2024-08-13 13:46:12,722 : INFO : Test_SearchEmp : test_SearchEmp_006 : 23 : Enter Username
+2024-08-13 13:46:13,998 : INFO : Test_SearchEmp : test_SearchEmp_006 : 25 : Enter Password
+2024-08-13 13:46:14,297 : INFO : Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-08-13 13:46:14,469 : INFO : Test_SearchEmp : test_SearchEmp_006 : 30 : Click on PIM Button
+2024-08-13 13:49:55,344 : INFO : Test_SearchEmp : test_SearchEmp_006 : 21 : Opening browser
+2024-08-13 13:49:55,345 : INFO : Test_SearchEmp : test_SearchEmp_006 : 23 : Enter Username
+2024-08-13 13:49:56,163 : INFO : Test_SearchEmp : test_SearchEmp_006 : 25 : Enter Password
+2024-08-13 13:49:56,438 : INFO : Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-08-13 13:50:00,634 : INFO : Test_SearchEmp : test_SearchEmp_006 : 30 : Click on PIM Button
+2024-08-13 14:03:17,071 : INFO : Test_SearchEmp : test_SearchEmp_006 : 21 : Opening browser
+2024-08-13 14:03:17,071 : INFO : Test_SearchEmp : test_SearchEmp_006 : 23 : Enter Username
+2024-08-13 14:03:18,121 : INFO : Test_SearchEmp : test_SearchEmp_006 : 25 : Enter Password
+2024-08-13 14:03:18,435 : INFO : Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-08-13 14:03:18,610 : INFO : Test_SearchEmp : test_SearchEmp_006 : 30 : Click on PIM Button
+2024-08-13 14:56:23,994 : INFO : Test_SearchEmp : test_SearchEmp_006 : 21 : Opening browser
+2024-08-13 14:56:23,995 : INFO : Test_SearchEmp : test_SearchEmp_006 : 23 : Enter Username
+2024-08-13 14:56:25,125 : INFO : Test_SearchEmp : test_SearchEmp_006 : 25 : Enter Password
+2024-08-13 14:56:25,245 : INFO : Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-08-13 14:56:25,306 : INFO : Test_SearchEmp : test_SearchEmp_006 : 30 : Click on PIM Button
+2024-08-13 14:57:30,355 : INFO : Test_SearchEmp : test_SearchEmp_006 : 21 : Opening browser
+2024-08-13 14:57:30,356 : INFO : Test_SearchEmp : test_SearchEmp_006 : 23 : Enter Username
+2024-08-13 14:57:31,467 : INFO : Test_SearchEmp : test_SearchEmp_006 : 25 : Enter Password
+2024-08-13 14:57:31,586 : INFO : Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-08-13 14:57:31,642 : INFO : Test_SearchEmp : test_SearchEmp_006 : 30 : Click on PIM Button
+2024-08-13 14:59:10,102 : INFO : Test_SearchEmp : test_SearchEmp_006 : 21 : Opening browser
+2024-08-13 14:59:10,102 : INFO : Test_SearchEmp : test_SearchEmp_006 : 23 : Enter Username
+2024-08-13 14:59:10,842 : INFO : Test_SearchEmp : test_SearchEmp_006 : 25 : Enter Password
+2024-08-13 14:59:10,952 : INFO : Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-08-13 14:59:11,009 : INFO : Test_SearchEmp : test_SearchEmp_006 : 30 : Click on PIM Button
+2024-08-13 15:03:12,079 : INFO : Test_SearchEmp : test_SearchEmp_006 : 21 : Opening browser
+2024-08-13 15:03:12,079 : INFO : Test_SearchEmp : test_SearchEmp_006 : 23 : Enter Username
+2024-08-13 15:03:13,101 : INFO : Test_SearchEmp : test_SearchEmp_006 : 25 : Enter Password
+2024-08-13 15:03:13,404 : INFO : Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-08-13 15:03:13,531 : INFO : Test_SearchEmp : test_SearchEmp_006 : 30 : Click on PIM Button
+2024-08-13 15:07:31,676 : INFO : Test_SearchEmp : test_SearchEmp_006 : 21 : Opening browser
+2024-08-13 15:07:31,677 : INFO : Test_SearchEmp : test_SearchEmp_006 : 23 : Enter Username
+2024-08-13 15:07:32,972 : INFO : Test_SearchEmp : test_SearchEmp_006 : 25 : Enter Password
+2024-08-13 15:07:33,285 : INFO : Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-08-13 15:07:33,533 : INFO : Test_SearchEmp : test_SearchEmp_006 : 30 : Click on PIM Button
+2024-08-13 15:13:59,908 : INFO : Test_SearchEmp : test_SearchEmp_006 : 21 : Opening browser
+2024-08-13 15:13:59,908 : INFO : Test_SearchEmp : test_SearchEmp_006 : 23 : Enter Username
+2024-08-13 15:14:01,164 : INFO : Test_SearchEmp : test_SearchEmp_006 : 25 : Enter Password
+2024-08-13 15:14:01,273 : INFO : Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-08-13 15:14:01,332 : INFO : Test_SearchEmp : test_SearchEmp_006 : 30 : Click on PIM Button
+2024-08-13 15:22:06,477 : INFO : Test_SearchEmp : test_SearchEmp_006 : 21 : Opening browser
+2024-08-13 15:22:06,484 : INFO : Test_SearchEmp : test_SearchEmp_006 : 23 : Enter Username
+2024-08-13 15:22:07,652 : INFO : Test_SearchEmp : test_SearchEmp_006 : 25 : Enter Password
+2024-08-13 15:22:07,773 : INFO : Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-08-13 15:22:07,830 : INFO : Test_SearchEmp : test_SearchEmp_006 : 30 : Click on PIM Button
+2024-08-13 15:22:11,542 : INFO : Test_SearchEmp : test_SearchEmp_006 : 34 : Entering Employee ID
+2024-08-13 15:25:38,029 : INFO : Test_SearchEmp : test_SearchEmp_006 : 21 : Opening browser
+2024-08-13 15:25:38,029 : INFO : Test_SearchEmp : test_SearchEmp_006 : 23 : Enter Username
+2024-08-13 15:25:39,383 : INFO : Test_SearchEmp : test_SearchEmp_006 : 25 : Enter Password
+2024-08-13 15:25:39,682 : INFO : Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-08-13 15:25:39,843 : INFO : Test_SearchEmp : test_SearchEmp_006 : 30 : Click on PIM Button
+2024-08-13 15:25:43,704 : INFO : Test_SearchEmp : test_SearchEmp_006 : 34 : Entering Employee ID
+2024-08-13 15:32:23,023 : INFO : Test_SearchEmp : test_SearchEmp_006 : 21 : Opening browser
+2024-08-13 15:32:23,023 : INFO : Test_SearchEmp : test_SearchEmp_006 : 23 : Enter Username
+2024-08-13 15:32:24,260 : INFO : Test_SearchEmp : test_SearchEmp_006 : 25 : Enter Password
+2024-08-13 15:32:24,427 : INFO : Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-08-13 15:32:24,483 : INFO : Test_SearchEmp : test_SearchEmp_006 : 30 : Click on PIM Button
+2024-08-13 15:32:27,803 : INFO : Test_SearchEmp : test_SearchEmp_006 : 34 : Entering Employee ID
+2024-08-13 15:33:24,660 : INFO : Test_SearchEmp : test_SearchEmp_006 : 21 : Opening browser
+2024-08-13 15:33:24,660 : INFO : Test_SearchEmp : test_SearchEmp_006 : 23 : Enter Username
+2024-08-13 15:33:25,833 : INFO : Test_SearchEmp : test_SearchEmp_006 : 25 : Enter Password
+2024-08-13 15:33:25,930 : INFO : Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-08-13 15:33:25,981 : INFO : Test_SearchEmp : test_SearchEmp_006 : 30 : Click on PIM Button
+2024-08-13 15:33:30,004 : INFO : Test_SearchEmp : test_SearchEmp_006 : 34 : Entering Employee ID
+2024-08-13 15:36:27,428 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 40 : test_OrangeHrm_002 is started
+2024-08-13 15:36:27,429 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 42 : Opening the browser
+2024-08-13 15:36:27,429 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 46 : Entering Username-->Admin
+2024-08-13 15:36:36,406 : INFO : Test_AddEmp : test_AddEmp_005 : 17 : test_AddEmp_005 testcase is started
+2024-08-13 15:36:36,407 : INFO : Test_AddEmp : test_AddEmp_005 : 19 : Opening browser
+2024-08-13 15:36:36,407 : INFO : Test_AddEmp : test_AddEmp_005 : 21 : Enter Username
+2024-08-13 15:36:36,621 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 14 : Test_OrangeHrm_login_params_003 is started
+2024-08-13 15:36:36,622 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 16 : Opening the Browser
+2024-08-13 15:36:36,622 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 18 : entering username-->Admin
+2024-08-13 15:36:37,580 : INFO : Test_AddEmp : test_AddEmp_005 : 23 : Enter Password
+2024-08-13 15:36:37,646 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 14 : Test_OrangeHrm_login_params_003 is started
+2024-08-13 15:36:37,646 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 16 : Opening the Browser
+2024-08-13 15:36:37,646 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 18 : entering username-->Admin
+2024-08-13 15:36:37,692 : INFO : Test_AddEmp : test_AddEmp_005 : 25 : Click on login Button
+2024-08-13 15:36:37,753 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 20 : entering password-->admin1231
+2024-08-13 15:36:37,753 : INFO : Test_AddEmp : test_AddEmp_005 : 28 : Click on PIM Button
+2024-08-13 15:36:37,859 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 22 : Clicking on login button
+2024-08-13 15:36:37,942 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 24 : Verifying the login status
+2024-08-13 15:36:38,746 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 20 : entering password-->admin123
+2024-08-13 15:36:38,847 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 22 : Clicking on login button
+2024-08-13 15:36:38,908 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 24 : Verifying the login status
+2024-08-13 15:36:41,464 : INFO : Test_AddEmp : test_AddEmp_005 : 30 : Click on AddEmp  Button
+2024-08-13 15:36:43,078 : INFO : Test_AddEmp : test_AddEmp_005 : 32 : Enter FirstName
+2024-08-13 15:36:43,695 : INFO : Test_AddEmp : test_AddEmp_005 : 34 : Enter MiddleName
+2024-08-13 15:36:43,761 : INFO : Test_AddEmp : test_AddEmp_005 : 36 : Enter LastName
+2024-08-13 15:36:43,826 : INFO : Test_AddEmp : test_AddEmp_005 : 38 : Uploading Image
+2024-08-13 15:36:43,893 : INFO : Test_AddEmp : test_AddEmp_005 : 40 : Click On Save Button
+2024-08-13 15:36:44,117 : INFO : Test_AddEmp : test_AddEmp_005 : 42 : Validating the success message for add emp 
+2024-08-13 15:36:46,135 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 53 : Closing the browser
+2024-08-13 15:36:48,929 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 55 : test_OrangeHRM_Login_params_003 is completed
+2024-08-13 15:36:50,623 : INFO : Test_AddEmp : test_AddEmp_005 : 44 : test_AddEmp_005 testcase is passed
+2024-08-13 15:36:50,624 : INFO : Test_AddEmp : test_AddEmp_005 : 50 : test_AddEmp_005 testcase is completed
+2024-08-13 15:36:51,858 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 13 : test_OrangeHRM_Login_DDT_004 is started
+2024-08-13 15:36:51,859 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 15 : Opening the browser
+2024-08-13 15:36:51,887 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin
+2024-08-13 15:36:52,646 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin123
+2024-08-13 15:36:52,756 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-13 15:36:55,939 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-13 15:36:58,976 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 53 : Closing the browser
+2024-08-13 15:37:01,224 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 41 : Taking the screenshot
+2024-08-13 15:37:01,341 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 43 : Clicking on Menu button
+2024-08-13 15:37:01,398 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 45 : Clicking on logout button
+2024-08-13 15:37:01,779 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 55 : test_OrangeHRM_Login_params_003 is completed
+2024-08-13 15:37:02,260 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin1
+2024-08-13 15:37:02,975 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin123
+2024-08-13 15:37:03,226 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-13 15:37:06,273 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 18 : test_OrangeHRM_url_001 is started
+2024-08-13 15:37:06,274 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 20 : Opening browser
+2024-08-13 15:37:06,281 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 22 : Verifying the page title
+2024-08-13 15:37:06,285 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-13 15:37:06,286 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 24 : test_OrangeHRM_url_001 is passed,landed on correct url
+2024-08-13 15:37:09,287 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 26 : Taking the Screenshot
+2024-08-13 15:37:09,410 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 35 : Closing the broweser 
+2024-08-13 15:37:12,468 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 37 : Test_OrabgeHrm_url_001 is completed
+2024-08-13 15:37:14,420 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 65 : Taking a screenshot
+2024-08-13 15:37:14,606 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin
+2024-08-13 15:37:14,790 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin1231
+2024-08-13 15:37:15,043 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-13 15:37:19,652 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-13 15:37:21,032 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 14 : Test_OrangeHrm_login_params_003 is started
+2024-08-13 15:37:21,032 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 16 : Opening the Browser
+2024-08-13 15:37:21,032 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 18 : entering username-->Admin1
+2024-08-13 15:37:22,324 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 20 : entering password-->admin1231
+2024-08-13 15:37:22,597 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 22 : Clicking on login button
+2024-08-13 15:37:22,761 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 24 : Verifying the login status
+2024-08-13 15:37:27,762 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 65 : Taking a screenshot
+2024-08-13 15:37:27,822 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin1
+2024-08-13 15:37:27,885 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin1231
+2024-08-13 15:37:27,963 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-13 15:37:30,864 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 53 : Closing the browser
+2024-08-13 15:37:31,106 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-13 15:37:33,947 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 55 : test_OrangeHRM_Login_params_003 is completed
+2024-08-13 15:37:39,030 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 14 : Test_OrangeHrm_login_params_003 is started
+2024-08-13 15:37:39,031 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 16 : Opening the Browser
+2024-08-13 15:37:39,031 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 18 : entering username-->Admin1
+2024-08-13 15:37:39,264 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 65 : Taking a screenshot
+2024-08-13 15:37:39,401 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin
+2024-08-13 15:37:39,526 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin123
+2024-08-13 15:37:39,776 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-13 15:37:40,278 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 20 : entering password-->admin123
+2024-08-13 15:37:40,567 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 22 : Clicking on login button
+2024-08-13 15:37:40,729 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 24 : Verifying the login status
+2024-08-13 15:37:42,913 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-13 15:37:47,981 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 41 : Taking the screenshot
+2024-08-13 15:37:48,126 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 43 : Clicking on Menu button
+2024-08-13 15:37:48,251 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 45 : Clicking on logout button
+2024-08-13 15:37:49,173 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 53 : Closing the browser
+2024-08-13 15:37:49,633 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin1
+2024-08-13 15:37:50,204 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin123
+2024-08-13 15:37:50,285 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-13 15:37:52,229 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 55 : test_OrangeHRM_Login_params_003 is completed
+2024-08-13 15:37:53,421 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-13 15:38:01,578 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 65 : Taking a screenshot
+2024-08-13 15:38:01,682 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 70 : test_OrangeHRM_Login_DDT_004 is passed
+2024-08-13 15:38:04,747 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 77 : Closing the browser
+2024-08-13 15:38:04,748 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 78 : test_OrangeHRM_Login_DDT_004 is completed
+2024-08-13 15:38:41,384 : INFO : Test_SearchEmp : test_SearchEmp_006 : 21 : Opening browser
+2024-08-13 15:38:41,384 : INFO : Test_SearchEmp : test_SearchEmp_006 : 23 : Enter Username
+2024-08-13 15:38:43,186 : INFO : Test_SearchEmp : test_SearchEmp_006 : 25 : Enter Password
+2024-08-13 15:38:43,504 : INFO : Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-08-13 15:38:43,673 : INFO : Test_SearchEmp : test_SearchEmp_006 : 30 : Click on PIM Button
+2024-08-13 15:38:49,190 : INFO : Test_SearchEmp : test_SearchEmp_006 : 34 : Entering Employee ID
+2024-08-13 15:45:44,895 : INFO : Test_AddEmp : test_AddEmp_005 : 17 : test_AddEmp_005 testcase is started
+2024-08-13 15:45:44,896 : INFO : Test_AddEmp : test_AddEmp_005 : 19 : Opening browser
+2024-08-13 15:45:44,896 : INFO : Test_AddEmp : test_AddEmp_005 : 21 : Enter Username
+2024-08-13 15:45:45,949 : INFO : Test_AddEmp : test_AddEmp_005 : 23 : Enter Password
+2024-08-13 15:45:46,170 : INFO : Test_AddEmp : test_AddEmp_005 : 25 : Click on login Button
+2024-08-13 15:45:47,745 : INFO : Test_AddEmp : test_AddEmp_005 : 28 : Click on PIM Button
+2024-08-13 15:45:50,270 : INFO : Test_AddEmp : test_AddEmp_005 : 30 : Click on AddEmp  Button
+2024-08-13 15:45:51,821 : INFO : Test_AddEmp : test_AddEmp_005 : 32 : Enter FirstName
+2024-08-13 15:45:52,667 : INFO : Test_AddEmp : test_AddEmp_005 : 34 : Enter MiddleName
+2024-08-13 15:45:52,895 : INFO : Test_AddEmp : test_AddEmp_005 : 36 : Enter LastName
+2024-08-13 15:45:53,117 : INFO : Test_AddEmp : test_AddEmp_005 : 38 : Uploading Image
+2024-08-13 15:45:53,251 : INFO : Test_AddEmp : test_AddEmp_005 : 40 : Click On Save Button
+2024-08-13 15:45:53,518 : INFO : Test_AddEmp : test_AddEmp_005 : 42 : Validating the success message for add emp 
+2024-08-13 15:45:56,340 : INFO : Test_AddEmp : test_AddEmp_005 : 44 : test_AddEmp_005 testcase is passed
+2024-08-13 15:45:56,341 : INFO : Test_AddEmp : test_AddEmp_005 : 50 : test_AddEmp_005 testcase is completed
+2024-08-13 15:46:11,985 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 18 : test_OrangeHRM_url_001 is started
+2024-08-13 15:46:11,985 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 20 : Opening browser
+2024-08-13 15:46:11,996 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 22 : Verifying the page title
+2024-08-13 15:46:12,003 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 24 : test_OrangeHRM_url_001 is passed,landed on correct url
+2024-08-13 15:46:15,004 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 26 : Taking the Screenshot
+2024-08-13 15:46:15,233 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 35 : Closing the broweser 
+2024-08-13 15:46:17,454 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_url_001 : 37 : Test_OrabgeHrm_url_001 is completed
+2024-08-13 15:46:49,780 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 40 : test_OrangeHrm_002 is started
+2024-08-13 15:46:49,780 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 42 : Opening the browser
+2024-08-13 15:46:49,780 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 46 : Entering Username-->Admin
+2024-08-13 15:46:50,933 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 50 : Entering password-->admin123
+2024-08-13 15:46:51,054 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 53 : Clicking on login button
+2024-08-13 15:46:51,107 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 55 : Verifying the login status
+2024-08-13 15:46:56,127 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 57 : Taking the screenshot
+2024-08-13 15:46:56,434 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 59 : Clicking on Menu button
+2024-08-13 15:46:56,501 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 61 : clicking on logout button
+2024-08-13 15:46:57,535 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 69 : Closing the Browser
+2024-08-13 15:46:59,890 : INFO : Test_OrangeHRM_Login : test_OrangeHRM_Login_002 : 71 : test_orangeHrm_002 is completed
+2024-08-13 15:47:31,710 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 13 : test_OrangeHRM_Login_DDT_004 is started
+2024-08-13 15:47:31,710 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 15 : Opening the browser
+2024-08-13 15:47:31,732 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin
+2024-08-13 15:47:33,093 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin123
+2024-08-13 15:47:33,288 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-13 15:47:36,460 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-13 15:47:41,537 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 41 : Taking the screenshot
+2024-08-13 15:47:42,028 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 43 : Clicking on Menu button
+2024-08-13 15:47:42,084 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 45 : Clicking on logout button
+2024-08-13 15:47:44,259 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin1
+2024-08-13 15:47:45,045 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin123
+2024-08-13 15:47:45,187 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-13 15:47:48,323 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-13 15:47:56,473 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 65 : Taking a screenshot
+2024-08-13 15:47:56,723 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin
+2024-08-13 15:47:56,795 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin1231
+2024-08-13 15:47:56,914 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-13 15:48:01,349 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-13 15:48:09,501 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 65 : Taking a screenshot
+2024-08-13 15:48:09,735 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin1
+2024-08-13 15:48:09,811 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin1231
+2024-08-13 15:48:09,917 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-13 15:48:14,096 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-13 15:48:22,241 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 65 : Taking a screenshot
+2024-08-13 15:48:22,463 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin
+2024-08-13 15:48:22,550 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin123
+2024-08-13 15:48:22,688 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-13 15:48:25,827 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-13 15:48:31,113 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 41 : Taking the screenshot
+2024-08-13 15:48:31,374 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 43 : Clicking on Menu button
+2024-08-13 15:48:31,428 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 45 : Clicking on logout button
+2024-08-13 15:48:32,535 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin1
+2024-08-13 15:48:33,334 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 31 : Entering Password-->admin123
+2024-08-13 15:48:33,459 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 33 : Clicking on login button
+2024-08-13 15:48:36,556 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 36 : Verifying the login status
+2024-08-13 15:48:44,709 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 65 : Taking a screenshot
+2024-08-13 15:48:45,074 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 70 : test_OrangeHRM_Login_DDT_004 is passed
+2024-08-13 15:48:47,430 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 77 : Closing the browser
+2024-08-13 15:48:47,431 : INFO : Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 78 : test_OrangeHRM_Login_DDT_004 is completed
+2024-08-13 15:49:33,631 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 14 : Test_OrangeHrm_login_params_003 is started
+2024-08-13 15:49:33,631 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 16 : Opening the Browser
+2024-08-13 15:49:33,632 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 18 : entering username-->Admin
+2024-08-13 15:49:35,128 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 20 : entering password-->admin123
+2024-08-13 15:49:35,225 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 22 : Clicking on login button
+2024-08-13 15:49:37,694 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 24 : Verifying the login status
+2024-08-13 15:49:57,836 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 53 : Closing the browser
+2024-08-13 15:50:00,196 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 55 : test_OrangeHRM_Login_params_003 is completed
+2024-08-13 15:50:35,877 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 14 : Test_OrangeHrm_login_params_003 is started
+2024-08-13 15:50:35,878 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 16 : Opening the Browser
+2024-08-13 15:50:35,878 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 18 : entering username-->Admin1
+2024-08-13 15:50:36,758 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 20 : entering password-->admin123
+2024-08-13 15:50:36,908 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 22 : Clicking on login button
+2024-08-13 15:50:39,236 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 24 : Verifying the login status
+2024-08-13 15:50:47,370 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 53 : Closing the browser
+2024-08-13 15:50:51,254 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 55 : test_OrangeHRM_Login_params_003 is completed
+2024-08-13 15:51:24,110 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 14 : Test_OrangeHrm_login_params_003 is started
+2024-08-13 15:51:24,110 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 16 : Opening the Browser
+2024-08-13 15:51:24,110 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 18 : entering username-->Admin
+2024-08-13 15:51:24,910 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 20 : entering password-->admin1231
+2024-08-13 15:51:25,076 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 22 : Clicking on login button
+2024-08-13 15:51:25,140 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 24 : Verifying the login status
+2024-08-13 15:51:33,274 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 53 : Closing the browser
+2024-08-13 15:51:37,160 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 55 : test_OrangeHRM_Login_params_003 is completed
+2024-08-13 15:52:11,175 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 14 : Test_OrangeHrm_login_params_003 is started
+2024-08-13 15:52:11,176 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 16 : Opening the Browser
+2024-08-13 15:52:11,176 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 18 : entering username-->Admin1
+2024-08-13 15:52:12,051 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 20 : entering password-->admin1231
+2024-08-13 15:52:12,214 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 22 : Clicking on login button
+2024-08-13 15:52:12,279 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 24 : Verifying the login status
+2024-08-13 15:52:20,415 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 53 : Closing the browser
+2024-08-13 15:52:22,718 : INFO : Test_OrangeHrm_Login_params : test_OrangeHrm_Login_params_003 : 55 : test_OrangeHRM_Login_params_003 is completed
+2024-08-13 15:52:58,822 : INFO : Test_SearchEmp : test_SearchEmp_006 : 21 : Opening browser
+2024-08-13 15:52:58,822 : INFO : Test_SearchEmp : test_SearchEmp_006 : 23 : Enter Username
+2024-08-13 15:52:59,644 : INFO : Test_SearchEmp : test_SearchEmp_006 : 25 : Enter Password
+2024-08-13 15:52:59,795 : INFO : Test_SearchEmp : test_SearchEmp_006 : 27 : Click on login Button
+2024-08-13 15:53:01,210 : INFO : Test_SearchEmp : test_SearchEmp_006 : 30 : Click on PIM Button
+2024-08-13 15:53:02,858 : INFO : Test_SearchEmp : test_SearchEmp_006 : 34 : Entering Employee ID
+2024-08-13 15:53:03,714 : INFO : Test_SearchEmp : test_SearchEmp_006 : 36 : Clicking Search Button
+2024-08-13 15:53:03,789 : INFO : Test_SearchEmp : test_SearchEmp_006 : 39 : Verifying Search Result
+2024-08-13 15:53:05,043 : INFO : Test_SearchEmp : test_SearchEmp_006 : 41 : Test Passed: Employee found.
